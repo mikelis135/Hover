@@ -1,2 +1,2 @@
 # Hover
-Htesting the Hover sdk
+Testing the Hover sdk
